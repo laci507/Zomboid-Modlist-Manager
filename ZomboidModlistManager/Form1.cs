@@ -197,6 +197,7 @@ namespace ZomboidModlistManager
                                     }
                                 }
                             }
+                            break;
                         }
 
                         modName = modName.Trim();
