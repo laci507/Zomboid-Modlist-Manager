@@ -1,0 +1,28 @@
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\ZomboidModlistManager.exe.config
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\ZomboidModlistManager.exe
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\ZomboidModlistManager.pdb
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.csproj.AssemblyReference.cache
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.Form1.resources
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.Properties.Resources.resources
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.csproj.GenerateResource.cache
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.csproj.CoreCompileInputs.cache
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.exe
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.pdb
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\HtmlAgilityPack.dll
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\HtmlAgilityPack.xml
+C:\Users\laci507\Desktop\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.csproj.CopyComplete
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\ZomboidModlistManager.exe.config
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\ZomboidModlistManager.exe
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\ZomboidModlistManager.pdb
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\HtmlAgilityPack.dll
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\bin\Debug\HtmlAgilityPack.xml
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.csproj.AssemblyReference.cache
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.Form1.resources
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.Properties.Resources.resources
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.csproj.GenerateResource.cache
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.csproj.CoreCompileInputs.cache
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.csproj.CopyComplete
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.exe
+C:\Users\laci507\Desktop\Work School Hobby\Hobby\Zomboid\ZomboidModlistManager\ZomboidModlistManager\obj\Debug\ZomboidModlistManager.pdb
