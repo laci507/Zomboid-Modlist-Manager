@@ -1,2 +1,2 @@
 # Zomboid Modlist Manager
- A simple C# Form create and manage Project Zomboid DS modding.
+ A simple C# Form to manage Project Zomboid DS mods.
