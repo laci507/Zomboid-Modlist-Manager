@@ -56,13 +56,14 @@ namespace ZomboidModlistManager
         string[] modsIDTexts = { "mod id: ", "mod id:", "mods id: ", "mods id:", "mod id ", "mod id", "mods id ", "mods id" };
         string[] mapTexts = { "map folder: ", "map: ", "maps:", "map folder ", "map folder" };
 
-        /*TODO
-        check mod dependencies
-        load and write to original config file
-
-        NOT doing: Add multiple mod IDs - this could cause issues.
-                   Some alternate mod-ids remove mod functionality - this should be user selectable.
-        */
+        ///TODO
+        ///check mod dependencies
+        ///load and write to original config file
+        ///
+        ///NOT doing: Add multiple mod IDs - this could cause issues.
+        ///           Some alternate mod-ids remove mod functionality - this should be user selectable.
+        ///*/
+        ///
 
         //Parse Steam urls and normal numeric input - return 0 if not matched.
         long ParseInputUrl(string input)
