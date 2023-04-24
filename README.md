@@ -32,5 +32,6 @@ Double-click a mod in the list to open its Steam Workshop page in your web brows
 
 ## Dependencies
 [HtmlAgilityPack](https://html-agility-pack.net/)
+.NET 4.7.2
 
 Feel free to improve the code any way you want, pull requests are welcome.
